@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Tips13Activity">
+
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="17"
+        android:text="First Trimester (0-12 weeks)\n\n\n
+By this stage, the rapidly growing pregnancy is no longer medically referred to an embryo, but graduates to the status of a foetus.
+All the vital organs have formed and are beginning to function.\n\n
+It is during the critical period before the end of the 12th week that congenital abnormalities may occur.\n\n
+The kidneys of the growing foetus begin to secrete urine by the end of the 12th week and soft nails have formed on the ends of the fingers and toes. The buds which will eventually form 20 milk teeth are already in place in the gums and the sex organs have developed, although they cannot yet be seen on an ultrasound scan.\n\n
+The uterus is now enlarged by the pregnancy and can be felt in the lower abdomen as a very soft swelling arising out of the pelvic cavity. Other physical changes, which are apparent to the mother at this stage, are changes in the size and shape of the breasts.\n\n
+Morning sickness usually settles down somewhere after the 12th week and very rarely lasts for the duration of the pregnancy."
+        android:textAlignment="center"
+        android:textSize="17dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

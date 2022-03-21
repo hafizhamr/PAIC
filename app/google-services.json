@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745224608731",
+    "firebase_url": "https://paic-8d591.firebaseio.com",
+    "project_id": "paic-8d591",
+    "storage_bucket": "paic-8d591.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745224608731:android:d5a6244ea85be070e925fe",
+        "android_client_info": {
+          "package_name": "com.example.paic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745224608731-jppg7koeuem99b0stml8p18vkmdbkplo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRixl9ZKtoccLzn276cMWSwt1V7ECkWf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745224608731-jppg7koeuem99b0stml8p18vkmdbkplo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

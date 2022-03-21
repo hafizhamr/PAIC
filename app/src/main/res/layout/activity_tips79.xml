@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Tips79Activity">
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="17"
+        android:text=" 	Third trimester (29-40 weeks)\n\n\n
+The baby is now fully mature. While there is more than a 95% chance of survival if the baby is born at this stage, the main reason why some babies fail to survive is due to the insufficient development of the lungs.\n\n
+The Mother  will notice increasing contractions of the womb muscle (Braxton Hicks contractions).\n\n
+In over 50% of women having their first baby, the head descends (or engages) into the pelvis at this stage in preparation for the birth. This is referred to as ‘lightening’ and usually results in a considerable relief of pressure in the upper abdomen of the mother.\n\n
+At 40 weeks, medically speaking, this marks the end of a normal pregnancy, but it must be remembered that this is just an average, not a hard and fast rule.
+\n\nMany pregnancies last less than 40 weeks, while some women go into labour as late as the 42nd week!
+The average weight of a full-term baby is eight pounds."
+        android:textAlignment="center"
+        android:textSize="17dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.495" />
+</androidx.constraintlayout.widget.ConstraintLayout>

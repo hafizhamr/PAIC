@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Tips46Activity">
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="17"
+        android:text=" 	Second Trimester (13-28 weeks)\n\n\n
+At 28 weeks, the foetus is now legally viable, which means that it is capable of a separate, independent existence and must be registered if it is born prematurely.\n\n
+The foetus is now covered in vernix, which is a greasy, cheese-like material covering the whole of the skin from head to toe.\n\nThe purpose of the vernix is to prevent the skin from becoming waterlogged due to its continued immersion in the amniotic fluid in the womb.
+\n\nThe eyes begin to open and close and the baby continues to move very vigorously at this stage.\n\nThis movement may feel like sharp thumping on the abdominal wall, and will be interspersed by long periods of quiet which should not give rise to any anxiety in the mother as the baby must rest sometime!
+"
+        android:textAlignment="center"
+        android:textSize="17dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
